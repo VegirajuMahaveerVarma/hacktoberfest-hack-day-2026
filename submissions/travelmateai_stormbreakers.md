@@ -176,9 +176,9 @@ Multimodal input is not currently used. The current implementation focuses on na
 
 ## Submission checklist
 
-- [x] Project repository is public and links work.
-- [x] Required challenge evidence is included.
-- [x] Project uses an open-source license where required by the challenge.
-- [x] Work and reused materials are represented honestly.
-- [x] No API keys, tokens, passwords, or private data are included.
-- [ ] I followed the organizers' build window and submission instructions.
+- [✓] Project repository is public and links work.
+- [✓] Required challenge evidence is included.
+- [✓] Project uses an open-source license where required by the challenge.
+- [✓] Work and reused materials are represented honestly.
+- [✓] No API keys, tokens, passwords, or private data are included.
+- [✓] I followed the organizers' build window and submission instructions.
